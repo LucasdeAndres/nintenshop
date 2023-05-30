@@ -1,0 +1,25 @@
+.menu_navbar {
+    color: var(--secondary_color);
+    font-family: Roboto;
+}
+
+.menu_navbar ul{
+    display: flex;
+    gap: 5px;
+}
+
+.menu_navbar ul li{
+    list-style: none;
+}
+
+.menu_navbar ul li:hover {
+    background-color: var(--secondary_color);
+    color: var(--primary_color);
+    cursor: pointer;
+}
+
+.menu_navbar ul li:active {
+    background-color: var(--active_white_bg_color);
+    color: var(--active_red_color);
+    cursor: pointer;
+}

@@ -1,0 +1,79 @@
+.home .home_intro {
+    background: var(--gradient);
+    color: var(--secondary_color);
+    font-family: Roboto;
+    display: flex;
+    padding: 40px 40px 40px 40px;
+    gap: 2%;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.home .home_intro .home_intro_text {
+    width: 40%;
+    font-size: 130%;
+}
+
+.home .home_intro .home_intro_img {
+    width: 45%;
+}
+
+.home .home_intro .home_intro_img img{
+    width: 100%
+}
+
+.home .home_intro .home_intro_text p{
+    margin-top: 20px;
+}
+
+.home .home_popular_games {
+    padding: 40px;
+    font-family: Roboto;
+    font-style: italic;
+    color: var(--dark_color);
+}
+
+.home .home_popular_games h2{
+    padding-bottom: 20px;
+}
+
+.home .home_popular_games .popular_games_cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.home .home_popular_games .popular_games_cards .cards{
+    margin: 10px;
+}
+
+@media (max-width: 950px) {
+    .home .home_intro {
+        padding: 40px 40px 0 40px;
+    }
+    .home .home_intro {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .home .home_intro .home_intro_text {
+        width: 100%;
+        text-align: center;
+    }
+    .home .home_intro .home_intro_img {
+        width: 60%;
+        margin-top: 10px;
+    }
+  }
+
+@media (max-width: 415px) {
+    .home .home_intro .home_intro_img {
+        width: 80%;
+        margin-top: 20px;
+    }
+    .home .home_intro {
+        padding: 10px 40px 0 40px;
+    }
+  } 
+    
+  

@@ -1,0 +1,293 @@
+[{
+    "id" : "1",
+    "nombre": "Cruis'n Blast",
+    "precio": 39.99,
+    "fecha_lanzamiento": "September 14, 2021",
+    "cantidad_jugadores": {
+      "online": "0",
+      "local": "1-4"
+    },
+    "generos": ["Racing", "Arcade","Party"],
+    "popular": true,
+    "subtitle" : "Cruis'n is Back!",
+    "description": "The arcade hit Cruis’n Blast is speeding onto Nintendo Switch™! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!",
+    "publisher": "Raw Thrills",
+    "esrb_rating": "E10+",
+    "tamanio_juego": "3.7 GB",
+    "idiomas": ["Inglés", "Español", "Francés", "Alemán"],
+    "franquicia": "Cruis’n",
+    "sale": "no",
+    "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/c/cruisn-blast-switch/hero", "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/c/cruisn-blast-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/c/cruisn-blast-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/c/cruisn-blast-switch/screenshot-gallery/screenshot03","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/c/cruisn-blast-switch/screenshot-gallery/screenshot04"]
+    
+  },
+
+  {
+    "id": "2",
+    "nombre": "New Pokémon Snap™",
+  "precio": 59.99,
+  "fecha_lanzamiento": "April 30, 2021",
+  "cantidad_jugadores": {
+    "online": "0",
+    "local": "1"
+  },
+  "generos": ["Simulation"],
+  "popular": true,
+  "subtitle" : "Explore lush scenery on unknown islands to snap photos of Pokémon in their natural habitats",
+  "description": "Seek out and take in-game photographs of Pokémon in their native environments in the New Pokémon Snap™ game, only for the Nintendo Switch™ system! Snap photos from the NEO-ONE as you you encounter and research lively wild Pokémon. You might see unexpected expressions or behaviors—Pokémon patrolling their territory, playing, or lurking in out-of-the-way spots.",
+  "publisher": "Nintendo",
+  "esrb_rating": "Everyone",
+  "tamanio_juego": "6.9 GB",
+  "idiomas": ["Inglés", "Español", "Francés", "Alemán"],
+  "franquicia": "Pokemon",
+  "sale": "no",
+  "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/00bd7efe46ab2b3ff0774172a5d4f21a5b2f467b3e324557ce1e9a9ae12c1d3b","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/cc288ea752072c29ecd340ad04650694099b08dac54daab8030058c0f121a0a2","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/5baa1a8ba0ad2db72621d47a41a624ca6a931f34e5d65dad0f2c2279e8dc425f","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/8dc1622bb206a7f210d5cf2e4fe306b775318f84f2aefb17e7b07867f98d1a93","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/0085e8b6b7a5924d751b96ae6ccab87b957edeb11740aa229517856a96a64864","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000037989/ced662ab03109d109e21a9152fb220a62d8d32696a48a5ef89acb3a41f46cfcd"]
+  
+    },
+
+    {
+      "id": "3",
+      "nombre": "Digimon World: Next Order",
+    "precio": 59.99,
+    "fecha_lanzamiento": "February 22, 2023",
+    "cantidad_jugadores": {
+      "online": "0",
+      "local": "1"
+    },
+    "generos": ["Simulation","Role-Playing"],
+    "popular": true,
+    "subtitle" : "Welcome Back to the Digital World",
+    "description": "The Digital World has run rampant with Machinedramon and is now in a state of utter chaos. As a Digidestined, it’s up to you to restore order to the world in Digimon World: Next Order, a monster-collecting RPG. Find and recruit as many faithful Digimon companions as possible to rebuild the Digital World. Will you be able to balance both training and exploration to stop the virus-infected Digimon from causing complete destruction?",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "esrb_rating": "E10+",
+    "tamanio_juego": "6.7 GB",
+    "idiomas": ["Inglés", "Español", "Francés", "Alemán"],
+    "franquicia": "Digimon",
+    "sale": "no",
+    "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/eb662f39defae1a3951d64af2e92ca93600e86b07f31fe05ecc23d2c015ffcb4","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/8aec60edef79ac1625ea71d64cb77407aed3302083ed00dc0471ab2b0593755c","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/075a09106f50166b3e94de197f0eec473f00b74e02b3a0616e37ceff2ba30196","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/cb91aa9a8103f614319bb97e99dd735bf17ddb27bec7a5de361a57c7e1163139","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/20b69419b3eb98c2cff126b9ebffb2dbf6cd65f396f3e462ad400da648e5aecd","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000042393/74db64ae9d937d28e69f30e7894c2561e197063b541d29984044406912f6f6eb"]
+    
+      },
+
+      {
+        "id": "4",
+        "nombre": "ASTRAL CHAIN",
+      "precio": 59.99,
+      "fecha_lanzamiento": "August 30, 2019",
+      "cantidad_jugadores": {
+        "online": "0",
+        "local": "1-2"
+      },
+      "generos": ["Action"],
+      "popular": true,
+      "subtitle" : "A brand-new action game from PlatinumGames, exclusively for the Nintendo Switch™ system",
+      "description": "The few survivors of a massive global disaster gather together in a futuristic megacity. Now it’s your job to protect them against otherworldly invaders–but you’re not alone as a member of a special police task force equipped with sentient armaments called Legions. In this brand-new action game from PlatinumGames, control the protagonist and a Legion simultaneously to chain stylish combos. Change Legions on the fly to vary your style and unleash a variety of abilities. The last remnants of humanity depend on you, and to save the world, you must investigate its dark side. Explore a near-future cyberpunk metropolis, solving crimes and seeing how the last remnants of humanity struggle to survive. ",
+      "publisher": "Nintendo",
+      "esrb_rating": "Teen",
+      "tamanio_juego": "9.8 GB",
+      "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+      "franquicia": "Astral Chain",
+      "sale": "no",
+      "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/76f381cf2156c793d5f7a9e5c66f4d872b593d2e9d79ed8b84eb9827f32bb655","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/714938201670a0be0476cf95cef1e1651b02805376a8d9f9812110efca375b0b","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/ad1cb4308cfbb7f0dd63dfa53244d968e03f279c1aa52f9eedd12043e2e2112f","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/b4d7e0544cc6f6de738b4177d58746f052a237b73b8c4c7955fbee4229f0b9ba","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/0cc7735d26c41f4b7eb8679058d63ad886c31069e8c11670044484cd09a6aab9","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018695/8d382b68700d8ad3e251819048c1fc2d2753b8ba54c41a5a1ed1119aaedafe41"]
+      
+        },
+
+        {
+          "id": "5",
+          "nombre": "Pokémon™: Let’s Go, Pikachu!",
+        "precio": 59.99,
+        "fecha_lanzamiento": "November 16, 2018",
+        "cantidad_jugadores": {
+          "online": "2",
+          "local": "1-2"
+        },
+        "generos": ["Adventure","Role-Playing","Multiplayer"],
+        "popular": true,
+        "subtitle" : "The next step in your Pokémon™ journey starts here",
+        "description": "Partner up with Pikachu to catch and collect Pokémon on a rich and vibrant adventure in the Pokémon™: Let’s Go, Pikachu! game – available now on the Nintendo Switch™ system! Become the best Pokémon Trainer you can be as you battle other Trainers, Gym Leaders, and the sinister Team Rocket. Catch Pokémon in the wild using a gentle throwing motion with either a Joy-Con™ controller or a Poké Ball™ Plus accessory (sold separately), which will light up, vibrate, and make sounds to bring your adventure to life. You can also use button controls in Handheld Mode. Share your adventure with family or friends using a second Joy-Con or Poké Ball Plus. You can even connect to the Pokémon™ GO app* using a compatible smartphone to bring over Pokémon originally discovered in the Kanto region!",
+        "publisher": "Nintendo",
+        "esrb_rating": "Everyone",
+        "tamanio_juego": "4.2 GB",
+        "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+        "franquicia": "Pokemon",
+        "sale": "no",
+        "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000447/8b2acaf2549895635f8d706eac06b3751e56bc3a970b04a937dcdec3e87ad3bf","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000447/bce9534267d7b0c14b368c4328dada108e1fbc50b6d351c83bd4578a8bc75173","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000447/7658806fd0e0d609dd9d06f3b11e64c1d8a2662b642e76862d7c9f5d6c71c4af","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000447/1932f76f19396837e45c6e17c74f215426a27254a74a46fe28ae057763273811","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000447/272668c5b89dbd058c46aa4c8fc828636449ca7975c87043fd8d1d09e3fbd747"]
+        
+          },
+
+          {
+            "id": "6",
+            "nombre": "Blasphemous",
+          "precio": 24.99,
+          "fecha_lanzamiento": "September 10, 2019",
+          "cantidad_jugadores": {
+            "online": "0",
+            "local": "1"
+          },
+          "generos": ["Adventure","Role-Playing","Action","Platformer","Horror"],
+          "popular": true,
+          "subtitle" : "Blasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core.",
+          "description": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle. Play as The Penitent One - a sole survivor of the massacre of the ‘Silent Sorrow’. Trapped in an endless cycle of death and rebirth, it’s down to you to free the world from this terrible fate and reach the origin of your anguish. Explore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, who are all ready to rip your limbs off. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
+          "publisher": "Team 17",
+          "esrb_rating": "Mature",
+          "tamanio_juego": "7.1 GB",
+          "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+          "franquicia": "Blasphemous",
+          "sale": "no",
+          "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot04","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot06"]
+          
+            }, 
+            
+            {
+              "id": "7",
+              "nombre": "DOOM 3",
+            "precio": 9.99,
+            "fecha_lanzamiento": "July 26, 2019",
+            "cantidad_jugadores": {
+              "online": "0",
+              "local": "1"
+            },
+            "generos": ["First-Person","Action","Horror"],
+            "popular": true,
+            "subtitle" : "Celebrate DOOM's 25th anniversary with the release of DOOM 3, available for the first time on Nintendo consoles.",
+            "description": "In this critically acclaimed action-horror re-telling of the original DOOM, players must battle their way through a demon-infested facility before entering the abyss to battle Hell's mightiest warrior - and put an end to the invasion. DOOM 3 includes the Resurrection of Evil and The Lost Missions expansion packs.",
+            "publisher": "Bathesda",
+            "esrb_rating": "Mature",
+            "tamanio_juego": "8.9 GB",
+            "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+            "franquicia": "DOOM",
+            "sale": "no",
+            "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/d/doom-3-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/d/doom-3-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/d/doom-3-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/d/doom-3-switch/screenshot-gallery/screenshot05","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/d/doom-3-switch/screenshot-gallery/screenshot06"]
+            
+              },
+              {
+                "id": "8",
+                "nombre": "Nintendo Switch™ Sports",
+              "precio": 39.99,
+              "fecha_lanzamiento": "April 29, 2022",
+              "cantidad_jugadores": {
+                "online": "1-2",
+                "local": "1-4"
+              },
+              "generos": ["Sports","Multiplayer","Party"],
+              "popular": true,
+              "subtitle" : "Swing, kick, spike, and bowl your way to victory in a sports collection that will get the whole family moving",
+              "description": "Get moving* with Golf, Soccer, Volleyball, Bowling, Tennis, Badminton, and Chambara (swordplay) using Joy-Con™ controllers! Controls are intuitive, so you can hit the court (or lanes, or field, or arena) and get started. With controlled motions, you can curve your bowling ball, add spin to a tennis shot, or even use a Joy-Con with the Leg Strap accessory to kick the ball in Soccer. Family and friends can join in on the fun on the same system** or online***.",
+              "publisher": "Nintendo",
+              "esrb_rating": "E10+",
+              "tamanio_juego": "3 GB",
+              "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+              "franquicia": "Nintendo Sports",
+              "sale": "no",
+              "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000049931/cf8adb2c74522b91412eb40b9d77216e8f8436fc4e63731e0dc262e6666930eb","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000049931/ee756f617f2e59e7cb4e09fccda40dfebfed6aaa94f1164f4fed8f6d38253f28","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000049931/08357e380f643e3f73773aef78ab8aa364fff62cc3794e6a3082d7ec48b38aa5","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000049931/d008f8312312fff3dcb3cf726ded0195f91b5d8b3946ba32d7ef0ac16c515fb3","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000049931/a8af665a4e14030240458b5b2fa1c9ac490f7fc4956bc429fd693babe0cfaf9d"]
+              
+                },
+                {
+                  "id": "9",
+                  "nombre": "Mario Kart™ 8 Deluxe",
+                "precio": 59.99,
+                "fecha_lanzamiento": "April 28, 2017",
+                "cantidad_jugadores": {
+                  "online": "2-12",
+                  "local": "1-4"
+                },
+                "generos": ["Racing","Multiplayer"],
+                "popular": false,
+                "subtitle" : "Race with Mario and friends anytime, anywhere!",
+                "description": "Burn rubber across Mushroom Kingdom raceways—underwater, in the sky, upside-down in zero-g, and past the finish—for the win! Get revved up for local multiplayer*, online** in-game tournaments, a revamped battle mode, and more! Stay fresh in the Mario Kart™ 8 Deluxe game by playing as guest characters Inkling Girl and Inkling Boy! You can use their Splatoon inspired karts on their battle mode stage, Urchin Underpass. There are also returning items, like Boo, the item-stealing ghost, and the Feather, used exclusively in battle mode. Veterans rejoice—you can hold two items at once! Prove you’re the world’s best racer and battler in online tournaments, or simply race and battle friends online. With many control options and handheld mode, there’s always a way to play on the Nintendo Switch™ system!",
+                "publisher": "Nintendo",
+                "esrb_rating": "Everyone",
+                "tamanio_juego": "9.5 GB",
+                "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                "franquicia": "Mario",
+                "sale": 40,
+                "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000153/de697f487a36d802dd9a5ff0341f717c8486221f2f1219b675af37aca63bc453","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000153/9ec93e1db18cd171de66747be8261ce59ed8687d3f2c2a40c4ffe1c517a62ec1","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000153/3c221afd8c7a679e7130b8384dd17b0f81ea778681d9d977eafb43d91ea7650f","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000153/8b68db89ebaec328ce0d4088c559043db1759140fb97f2f4d8eed8a61e4a4cc5","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000000153/cae946215bc4b9c7afe24aeb14b41135b1f3a0e9b1d702bcce84db6575d72a5a"]
+                
+                  },
+                  {
+                    "id": "10",
+                    "nombre": "Metroid Prime™ Remastered",
+                  "precio": 39.99,
+                  "fecha_lanzamiento": "February 8, 2023",
+                  "cantidad_jugadores": {
+                    "online": "0",
+                    "local": "1"
+                  },
+                  "generos": ["Action","Adventure","First-Person","Platformer"],
+                  "popular": false,
+                  "subtitle" : "Suit up for an iconic adventure",
+                  "description": "Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon.",
+                  "publisher": "Nintendo",
+                  "esrb_rating": "Teen",
+                  "tamanio_juego": "6.8 GB",
+                  "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                  "franquicia": "Metroid",
+                  "sale": 20,
+                  "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000063709/db3492e18c04f8c4d616a9ae16ccaa25f0de5efea7eb223503827f7c0eb8f839","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000063709/c60d3e37112afd53acd64bbf569a2408f9ef563cf9f2e820f216a8f4da2dec16","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000063709/173948748bc658aaf30af38260c40a93b721278b74536ac6f962a19352ddd82b","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000063709/fce89cb0f04d99b94d816d18a90f9b0a0b276b2515550877ccd4027de7810ea4"]
+                  
+                    },
+                    {
+                      "id": "11",
+                      "nombre": "Worms W.M.D",
+                    "precio": 29.99,
+                    "fecha_lanzamiento": "November 23, 2017",
+                    "cantidad_jugadores": {
+                      "online": "2-6",
+                      "local": "1-6"
+                    },
+                    "generos": ["Strategy"],
+                    "popular": false,
+                    "subtitle" : "INCOMING! Worms W.M.D Explodes onto Nintendo Switch™!",
+                    "description": "The Worms are back in their most destructive game yet. With a gorgeous, hand-drawn 2D look, a full arsenal of weapons, crafting, vehicles and buildings, Worms W.M.D is the best Worms experience ever! In Worms W.M.D for Nintendo Switch™, players will be able to feel the full power of all the game’s campaign missions, levels, customisations and updates, including Liberation and the fan favourite Forts Mode whether at home or on the go. And coming first to Nintendo Switch, a whole megaton more!",
+                    "publisher": "Team 17",
+                    "esrb_rating": "E10+",
+                    "tamanio_juego": "5 GB",
+                    "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                    "franquicia": "Worms",
+                    "sale": 20,
+                    "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/w/worms-w-m-d-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/w/worms-w-m-d-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/w/worms-w-m-d-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/w/worms-w-m-d-switch/screenshot-gallery/screenshot03","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/w/worms-w-m-d-switch/screenshot-gallery/screenshot05"]
+                    
+                      },
+                      {
+                        "id": "12",
+                        "nombre": "Pokkén Tournament™ DX",
+                      "precio": 59.99,
+                      "fecha_lanzamiento": "September 22, 2017",
+                      "cantidad_jugadores": {
+                        "online": "2",
+                        "local": "1-2"
+                      },
+                      "generos": ["Fighting","Action"],
+                      "popular": false,
+                      "subtitle" : "Pokémon comes to Nintendo Switch",
+                      "description": "Introducing the first Pokémon title for the Nintendo Switch console. Take direct control of one of 21 prized Pokémon fighters to defeat other Pokémon in arena fights. Call upon Support Pokémon to assist in the fight, then unleash your Pokémon's unique Burst Attack to climb atop the ranks. With all new modes and new ways to battle with friends, this is your chance to become champion of the Ferrum Region!",
+                      "publisher": "Nintendo",
+                      "esrb_rating": "E10+",
+                      "tamanio_juego": "4 GB",
+                      "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                      "franquicia": "Pokemon",
+                      "sale": 15,
+                      "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000001132/92721f9dac0b86ff11694424bcac9b263cbd7904bc6f9da5a2eaa09bd9d1c855","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000001132/99ea536904d37f1660c2f7f27c945db223a7579630fdf0c578a220deb6abc03d","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000001132/939b1e60805ea2a95aa51e3faad99b0ec8af0408b39f4af40abe25d3d1c3ee1d","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000001132/bb6899542024907f8fe6abb113b82a27412034c74bb63ac42e08fd71876e166f","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000001132/a1a292120816697625b637275682e6fb59a333ef8975532f20c6b98c41bcd323"]
+                      
+                        },
+                        {
+                          "id": "13",
+                          "nombre": "PBA Pro Bowling 2023",
+                        "precio": 29.99,
+                        "fecha_lanzamiento": "September 7, 2022",
+                        "cantidad_jugadores": {
+                          "online": "2",
+                          "local": "1-4"
+                        },
+                        "generos": ["Simulation","Sports"],
+                        "popular": false,
+                        "subtitle" : "The ultimate bowling game is back with PBA Pro Bowling 2023!",
+                        "description": "The ultimate bowling game is back with PBA Pro Bowling 2023! Become a PBA legend with the completely re-designed single player Career Mode or compete in Online matches and tournaments against your friends and rivals as yourself or as any of today’s top PBA bowlers. This is the most realistic and authentic bowling game ever! PBA Pro Bowling 2023 is officially licensed by the Pro Bowlers Association and includes over 30 of the top pros in the game today along with in-game commentary from the TV broadcast team of Rob Stone and hall-of-famer Randy Pedersen.",
+                        "publisher": "FarSight Studios",
+                        "esrb_rating": "Everyone",
+                        "tamanio_juego": "4.8 GB",
+                        "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                        "franquicia": "PBA pro Bowling",
+                        "sale": 80,
+                        "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/a98688b55de14331d7c1d463af74e3231db7a243ca911484b51d91aa4527d0c1","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/c6763fb5d7cd55c8e342f4a6debc2c6d0852db0602c7bb91ecf125ccde6ece84","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/5ed589eeda7bb84281af564504a692063a2cd1435c07458d1a296750c504ae44","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/8e85a803d2b579fd392097f6d6e00b7a51ef30eba0fad8a96323dab641470e35","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/130d50208b11f05f63109928ef0f121cd5d936ef3345579b0a611bc94d335e6e"]
+                        
+                          }                              
+]
