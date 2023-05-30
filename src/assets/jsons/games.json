@@ -123,7 +123,7 @@
             "local": "1"
           },
           "generos": ["Adventure","Role-Playing","Action","Platformer","Horror"],
-          "popular": true,
+          "popular": false,
           "subtitle" : "Blasphemous is a punishing action-platformer that combines the fast-paced, skilled combat of a hack-n-slash game with a deep and evocative narrative core.",
           "description": "A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle. Play as The Penitent One - a sole survivor of the massacre of the ‘Silent Sorrow’. Trapped in an endless cycle of death and rebirth, it’s down to you to free the world from this terrible fate and reach the origin of your anguish. Explore this nightmarish world of twisted religion and discover its many secrets hidden deep inside. Use devastating combos and brutal executions to smite the hordes of grotesque monsters and titanic bosses, who are all ready to rip your limbs off. Locate and equip relics, rosary beads and prayers that call on the powers of the heavens to aid you in your quest to break your eternal damnation.",
           "publisher": "Team 17",
@@ -131,7 +131,7 @@
           "tamanio_juego": "7.1 GB",
           "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
           "franquicia": "Blasphemous",
-          "sale": "no",
+          "sale": 90,
           "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot04","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/b/blasphemous-switch/screenshot-gallery/screenshot06"]
           
             }, 
@@ -289,5 +289,93 @@
                         "sale": 80,
                         "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/a98688b55de14331d7c1d463af74e3231db7a243ca911484b51d91aa4527d0c1","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/c6763fb5d7cd55c8e342f4a6debc2c6d0852db0602c7bb91ecf125ccde6ece84","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/5ed589eeda7bb84281af564504a692063a2cd1435c07458d1a296750c504ae44","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/8e85a803d2b579fd392097f6d6e00b7a51ef30eba0fad8a96323dab641470e35","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000055907/130d50208b11f05f63109928ef0f121cd5d936ef3345579b0a611bc94d335e6e"]
                         
-                          }                              
+                          },
+                          {
+                            "id": "14",
+                            "nombre": "Tetris® 99",
+                          "precio": "Free",
+                          "fecha_lanzamiento": "February 13, 2019",
+                          "cantidad_jugadores": {
+                            "online": "1-99",
+                            "local": "1"
+                          },
+                          "generos": ["Puzzle","Multiplayer"],
+                          "popular": true,
+                          "subtitle" : "99 players. One winner!",
+                          "description": "Battle your way to the top in Tetris® 99, a competitive online* version of the iconic game. With a Nintendo Switch Online membership, you’ll be able to put your speed and skills to the test—and try to knock out opponents. Reach the very pinnacle of Tetris achievement by becoming the last player standing!",
+                          "publisher": "Nintendo",
+                          "esrb_rating": "Everyone",
+                          "tamanio_juego": "1.4 GB",
+                          "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                          "franquicia": "Tetris",
+                          "sale": "no",
+                          "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018547/2aaa58fe27cdc4784f54ee9f4e7dffd43ad1fd1fffabfd86029889696220d33b","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018547/b59a960e412353b5b750b1466f2265336ed5c62fa685a41b89a9f7ccbbf9e091","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018547/21e65c191a45955ab650a0cdf2a20ce9b0aed7c77c50c68b58f7f09bf2c8254b","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018547/e37b9fb95293cdd1e96e8fce4e5c3eae3c5da4745fb87b411d3989772754e883","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000018547/2f5267e9c7015adbb9efccbe1af7c4b39add2731858589ca21ad61cbb4bcdf83"]
+                          
+                            },
+                            {
+                              "id": "15",
+                              "nombre": "NAMCO MUSEUM",
+                            "precio": 29.99,
+                            "fecha_lanzamiento": "July 28, 2017",
+                            "cantidad_jugadores": {
+                              "online": "2-4",
+                              "local": "1-3"
+                            },
+                            "generos": ["Arcade","Action","Adventure"],
+                            "popular": false,
+                            "subtitle" : "Play some of the most popular Namco games, anytime, anywhere!",
+                            "description": "Enjoy Namco classics such as PAC-MAN™, GALAGA™, SPLATTERHOUSE™, and TOWER OF DRUAGA™, or play games such as ROLLING THUNDER™, SKYKID™, or TANK FORCE™ with friends and family on the Nintendo Switch™!",
+                            "publisher": "BANDAI NAMCO Entertainment",
+                            "esrb_rating": "Teen",
+                            "tamanio_juego": "1.3 GB",
+                            "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                            "franquicia": "NAMCO",
+                            "sale": 75,
+                            "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/n/namco-museum-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/n/namco-museum-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/n/namco-museum-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/n/namco-museum-switch/screenshot-gallery/screenshot03","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/n/namco-museum-switch/screenshot-gallery/screenshot04"]
+                            
+                              },
+                              {
+                                "id": "16",
+                                "nombre": "SEGA Genesis Classics",
+                              "precio": 29.99,
+                              "fecha_lanzamiento": "December 7, 2018",
+                              "cantidad_jugadores": {
+                                "online": "2",
+                                "local": "1-2"
+                              },
+                              "generos": ["Arcade","Action","Platformer","Role-Playing"],
+                              "popular": false,
+                              "subtitle" : "SEGA Genesis Classics is the largest collection of retro classics on Nintendo Switch™!",
+                              "description": "Including over 50 titles across all genres, from all-time classics like Sonic and Streets of Rage 2 to deep RPGs like the Phantasy Star series; arcade action, shooters, beat’m ups, puzzles, old favorites and hidden gems. There is a classic title for every player to enjoy! New features also bring modern convenience to the classics. Save your game at any time, rewind those slip-ups, or customize your controls. Earn bragging rights with online multiplayer and achievements.",
+                              "publisher": "SEGA",
+                              "esrb_rating": "Teen",
+                              "tamanio_juego": "1.2 GB",
+                              "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                              "franquicia": "SEGA",
+                              "sale": 40,
+                              "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/s/sega-genesis-classics-switch/hero","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/s/sega-genesis-classics-switch/screenshot-gallery/screenshot01","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/s/sega-genesis-classics-switch/screenshot-gallery/screenshot02","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/s/sega-genesis-classics-switch/screenshot-gallery/screenshot05","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/en_US/games/switch/s/sega-genesis-classics-switch/screenshot-gallery/screenshot06"]
+                              
+                                },
+                                {
+                                  "id": "17",
+                                  "nombre": "SUPER BOMBERMAN R 2",
+                                "precio": 49.99,
+                                "fecha_lanzamiento": "September 13, 2023",
+                                "cantidad_jugadores": {
+                                  "online": "1-64",
+                                  "local": "1-8"
+                                },
+                                "generos": ["Party","Action","Puzzle"],
+                                "popular": false,
+                                "subtitle" : "The latest title of the party battle games series SUPER BOMBERMAN R!",
+                                "description": "With new adventures and game modes, it has the largest content volume in the series' history! The game features not only offline battles that can be played with family and friends, but also online battles that connect players from all over the world, as well as a single player mode.In addition to the well-known 'Standard', 'Grand Prix' and 'Battle 64' a new battle mode called 'Castle' in which players are divided into Attack side and Castle side to battle for the treasure! A 'Stage Editor' function has also been added, allowing players to create their own stages for 'Castle' and share them online with players around the globe.",
+                                "publisher": "KONAMI",
+                                "esrb_rating": "E10+",
+                                "tamanio_juego": "4.8 GB",
+                                "idiomas": ["Inglés", "Español", "Francés", "Alemán", "Japanese", "Korean"],
+                                "franquicia": "BOMBERMAN",
+                                "sale": 10,
+                                "imagenes": ["https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000051702/56eca22f614043d45782432505ace8d2f63e0194033e8159ca111595616f4296","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000051702/8d31e3b349a42b7d0b01b2fc2734788390f7862f720178d825875a024f988059","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000051702/3b57d54d2c351db7567ae980880e2633c590b7cca115290b1196bf8b38a11e2c","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000051702/bdd2e5642fc6e9079c8cc417b0ef901497ae1c7a0643b3bdf595afa8519010c9","https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_1100/ncom/software/switch/70010000051702/b67237a1fc43180cba5e6a4219705d439581eec00a2b193851fa6c747d79c4b5"]
+                                
+                                  }                                       
 ]
