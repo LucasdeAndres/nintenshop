@@ -11,7 +11,7 @@ export const Cards = ({img, title, price}) => {
             <h3>{title}</h3>
           </div>
           <div className='cards_price_button'>
-            <p>{price}$</p>
+            <p>{price}{price !== "Free" && " $" }</p>
             <LightBGButton text="Buy" nameClass="red_bg"/>
           </div>
         </div>
