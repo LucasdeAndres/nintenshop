@@ -1,13 +1,14 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import "./menuNavbar.css"
 
 export const MenuNavbar = () => {
   return (
     <nav className='menu_navbar'>
         <ul>
-          <li>Home </li> |
-          <li>Games </li> |
-          <li>Sales </li> |
+          <Link to="/"><li>Home </li> </Link> |
+          <li>Games </li>|
+          <Link to="/sales"><li>Sales </li></Link> |
           <li>About us</li>
         </ul>
     </nav>

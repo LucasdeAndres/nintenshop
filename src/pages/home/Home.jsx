@@ -32,7 +32,9 @@ export const Home = () => {
             <h2>Popular Games</h2>
             <div className='popular_games_cards'>
                 {games.map((game => {
+                    if (game.popular){
                     return <Cards key={game.id} img={game.imagenes[0]} title={game.nombre} price={game.precio}/>
+                    }else return null
                 }))}
             </div>
         </div>

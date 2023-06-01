@@ -23,3 +23,8 @@
     color: var(--active_red_color);
     cursor: pointer;
 }
+
+.menu_navbar a {
+    color: var(--secondary_color);
+    text-decoration: none;
+}
