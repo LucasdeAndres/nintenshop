@@ -1,6 +1,6 @@
 import React from 'react'
 import discounts from "../../assets/jsons/discounts.json"
-import { HiMagnifyingGlass } from 'react-icons/hi'
+import { HiMagnifyingGlass } from 'react-icons/hi2'
 
 export const FilterSales = () => {
   return (
@@ -13,7 +13,7 @@ export const FilterSales = () => {
                 return <option value={discount.value}>{discount.name}</option>
             })}
         </select>
-        <button></button>
+        <button>Search</button>
     </div>
   )
 }
